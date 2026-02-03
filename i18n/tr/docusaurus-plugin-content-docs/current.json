@@ -2,5 +2,9 @@
   "sidebar.tutorialSidebar.category.Chapter 1: Cloud Concepts": {
     "message": "Bölüm 1: Bulut Kavramları",
     "description": "The label for category 'Chapter 1: Cloud Concepts' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Chapter 2: Benefits of Cloud Computing": {
+    "message": "Bölüm 2: Bulut Bilişimin Faydaları",
+    "description": "The label for category 'Chapter 2: Benefits of Cloud Computing' in sidebar 'tutorialSidebar'"
   }
 }
