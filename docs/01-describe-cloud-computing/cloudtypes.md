@@ -3,7 +3,7 @@ title: "Chapter 1.2: Cloud Models - Where do we fish?"
 sidebar_position: 2
 ---
 
-# 📘 CHAPTER 1.1: The Three Faces of Cloud
+# 📘 CHAPTER 1.2: The Three Faces of Cloud
 ## Public, Private, and Hybrid Cloud
 
 In cloud computing, we must ask: "Where is the hardware, and who has access?" The answer leads us to three main cloud models. Understanding these is essential for the AZ-900 exam and real-world design.

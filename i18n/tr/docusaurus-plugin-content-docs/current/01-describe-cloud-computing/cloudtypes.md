@@ -3,7 +3,7 @@ title: "Bölüm 1.2: Bulut Modelleri - Nereden Avlanıyoruz?"
 sidebar_position: 2
 ---
 
-# 📘 BÖLÜM 1.1: Bulutun Üç Hali
+# 📘 BÖLÜM 1.2: Bulutun Üç Hali
 ## Public, Private ve Hybrid Cloud
 
 Bulut bilişime giriş yaptığımızda karşımıza çıkan en temel soru şudur: "Bu veriler ve işlem gücü nerede duruyor ve buna kimlerin erişimi var?" Bu sorunun cevabı bizi üç ana bulut modeline götürür. Azure'un bu büyük resimde nereye oturduğunu anlamak için bu farkları bilmek hayati önem taşır.
