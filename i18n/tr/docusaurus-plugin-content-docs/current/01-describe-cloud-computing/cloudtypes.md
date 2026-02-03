@@ -1,5 +1,5 @@
 ---
-title: "Bölüm 1.2: Bulut Modelleri - Nereden Avlanıyoruz?"
+title: "Bölüm 1.2: Bulut Modelleri"
 sidebar_position: 2
 ---
 
@@ -45,7 +45,7 @@ Hibrit bulut, hem genel hem de özel bulut ortamlarını birleştirerek verileri
 
 ---
 
-## 🔑 Mimarın Karşılaştırma Matrisi (AZ-900 Odaklı)
+## 🔑 Mimarın Karşılaştırma Matrisi
 
 | Özellik | Public Cloud | Private Cloud | Hybrid Cloud |
 | :--- | :--- | :--- | :--- |
